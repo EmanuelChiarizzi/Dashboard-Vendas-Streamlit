@@ -17,3 +17,7 @@ Tecnologias Utilizadas
 Como rodar o projeto
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute o app: `streamlit run app.py`
+
+<p align="center">
+  <img src="Print_Dashboard.jpeg" width="800">
+</p>
